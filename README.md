@@ -1,2 +1,3 @@
-# UFC-Palestra_IA_Conhecimento
-Coleção de arquivos utilizados na palestra Python para Dados e Introdução a Inteligência Artificial com Python.
+# OBRIGADO POR PARTICIPAR DAS PALESTRAS!
+Aqui você tem acesso aos arquivos utilizados nas palestras de maneira completa, de acordo com o decorrer do processo!
+
